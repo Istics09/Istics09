@@ -50,11 +50,3 @@ $ whoami
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@secpro.online)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Istics09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <i>Building secure infrastructure, one container at a time 🐳</i>
-</p>
